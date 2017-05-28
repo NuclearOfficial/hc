@@ -1,0 +1,11 @@
+main: me.nuclear.hcfessent.Main
+description: HCFEssentials
+name: HCFE
+version: 1.0
+author: anuke
+
+commands:
+    coords:
+    teamspeak:
+      alias: [ts]
+    cobble:
